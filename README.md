@@ -1,12 +1,51 @@
-- 👋 Hi, I’m @knyfie-P
-- 👀 I’m interested in web design and develpment
-- 🌱 I’m currently learning Java and Javascript
-- 💞️ I’m looking to collaborate on nothing RN
-- 📫 How to reach me litanoluwanifemi@gmail.com
-- 😄 Pronouns: He / Him
-- ⚡ Fun fact: i dibble in alot of things
+<!-- Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=00CED1&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Litan+Oluwanifemi;aka+knyfie;Software+Engineering+Student;Backend+%7C+FastAPI+%7C+DevOps" />
+</p>
 
-<!---
-knyfie-P/knyfie-P is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🚀 About Me  
+- 💻 Software Engineering student  
+- ⚡ Focused on **C++, Python, PHP, HTML/CSS, and FastAPI**  
+- 🛠️ Exploring backend development, automation, and DevOps tools  
+- 🌐 Owner of [knyfie.com](https://knyfie.com)  
+
+---
+
+## 🛠️ Tech Stack  
+
+<p align="center">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=cpp,python,php,java,html,css&perline=6" /><br/>
+  <!-- Frameworks -->
+  <img src="https://skillicons.dev/icons?i=fastapi&perline=6" /><br/>
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=docker,git,vscode&perline=6" />
+</p>
+
+---
+
+## 📌 Featured Projects  
+
+🔹 [**Wordunscrammbler**](https://github.com/knyfie/Wordunscrammbler) – Text unscrambler with ChatGPT integration in progress.  
+🔹 **SIWESHub** – Web platform simplifying student workflows.  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=knyfie&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=knyfie&theme=tokyonight" alt="GitHub streak" height="160"/>
+</p>
+
+---
+
+## 🌐 Connect  
+
+<p align="center">
+  <a href="https://knyfie.com"><img src="https://img.shields.io/badge/Website-knyfie.com-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+  <a href="mailto:litanoluwanifemi@gmail.com"><img src="https://img.shields.io/badge/Email-litanoluwanifemi%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/litanoluwanifemi"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
