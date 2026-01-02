@@ -1,4 +1,3 @@
-<img width="1876" height="1004" alt="image" src="https://github.com/user-attachments/assets/5611bbaa-e0ed-456c-aacd-1ecc6f7cb6b8" /><!-- Header -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=00CED1&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Litan+Oluwanifemi;aka+knyfie;Software+Engineering+Student;Backend+%7C+FastAPI+%7C+DevOps" />
 </p>
