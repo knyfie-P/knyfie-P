@@ -29,7 +29,7 @@
 
 🔹 [**Manarr**](https://github.com/knyfie-P/Manarr) – An automated manga/manhwa tracking and downloading tool
 
-🔹 [**Wordunscrammbler**](https://github.com/knyfie-P/Wordunscrammbler) – Text unscrambler with ChatGPT integration in progress
+🔹 [**Word Unscrammbler**](https://github.com/knyfie-P/Word-Unscrammbler) – Text unscrambler with ChatGPT integration in progress
 
 🔹 [**Simple To-Do List**](https://github.com/Mobile-App-Dev-SEN-313-Grp-4/To_Do_List) – A simple to-do list app
 
